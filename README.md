@@ -13,6 +13,8 @@ A collection of my notes on things I'm learning. These notes aim to be simple, c
 
 - [Interest Rates - 08.04.25](notes/economics/interest_rates/interest_rates.md)
 
+- [Wealth Economics & Inequality - 16.04.25](notes/economics/wealth_economics/wealth_economics.md)
+
 
 
 ## 📚 More Coming Soon...
