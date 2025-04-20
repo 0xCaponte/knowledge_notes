@@ -16,6 +16,8 @@ A collection of my notes on things I'm learning. These notes aim to be simple, c
 - [Wealth Economics & Inequality - 16.04.25](notes/economics/wealth_economics/wealth_economics.md)
 
 
+### 🙋‍♂️ Personal Branding
+- [Basics of Personal Branding - 20.04.25](notes/personal_branding/basics_of_personal_branding/basics_of_personal_branding.md)
 
 ## 📚 More Coming Soon...
 
